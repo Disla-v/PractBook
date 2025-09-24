@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HelloCS/HelloCS.csproj" />
+  <Project Path="TopLevelProgram/TopLevelProgram.csproj" Id="46573f62-7af2-4180-abb1-b92c5a158048" />
+</Solution>

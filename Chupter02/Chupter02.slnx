@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Numbers/Numbers.csproj" />
+  <Project Path="Variables/Variables.csproj" />
+</Solution>
