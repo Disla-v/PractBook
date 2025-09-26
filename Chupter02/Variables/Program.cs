@@ -14,3 +14,4 @@ string fruit = "Apples"; // строки в двойных кавычках
 char letter = 'Z'; // символы в одиночных кавычках
 bool happy = true; // логическое значение — true или false
 
+Console.WriteLine(population);
