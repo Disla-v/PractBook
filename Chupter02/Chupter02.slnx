@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Arguments/Arguments.csproj" Id="664007a2-7488-4144-9c50-b78c992b8ca2" />
+  <Project Path="Formatting/Formatting.csproj" Id="1134a981-4387-4286-b6a4-8ead5c66ae62" />
   <Project Path="Numbers/Numbers.csproj" />
   <Project Path="Variables/Variables.csproj" />
 </Solution>
